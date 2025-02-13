@@ -39,4 +39,7 @@ Tools: Power BI, MySQL, Excel and dataset provided by the AtliQ Hardware.
 - Regional Strategy: India and the USA need targeted efforts to address declining net profits; LATAM and EU show growth potential.
 - Supply Chain Accuracy: Enhanced forecasting and addressing high-risk segments can reduce errors and improve efficiency.
 
-[Live Power BI Dashboard link](https://lnkd.in/diyesUFy)
+## 🔗 Important links:
+- [Live Power BI Dashboard](https://lnkd.in/diyesUFy)
+- [Linkedin Post](https://www.linkedin.com/posts/saurabhchunekar_hello-linkedin-community-i-am-very-excited-activity-7281993003143958528-3k91?utm_source=share&utm_medium=member_desktop)
+- [Project video](https://www.youtube.com/embed/-yqsKL119HY?si=9iJaEZtGrYcZfWq5)
