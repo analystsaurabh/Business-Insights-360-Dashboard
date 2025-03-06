@@ -1,4 +1,4 @@
-# Business-Insights-360-Dashboard
+# Business-Insights-360
 AtliQ, a growing global computer hardware company, faced challenges making informed decisions, relying heavily on surveys and intuition. Their goal is to adopt data-driven strategies to drive better business outcomes.
 
 ## 📈 Process and Tools I Used:
